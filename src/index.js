@@ -29,7 +29,7 @@ const theme = createTheme({
 ReactDOM.createRoot(document.getElementById('root')).render(
   <PersistGate loading={null} persistor={persistor}>
     <Provider store={store}>
-      <BrowserRouter basename="/Undefined-project-2">
+      <BrowserRouter basename="/react_49_MagisterUnivers">
         <GlobalStyles />
         <ThemeProvider theme={theme}>
           <App />
