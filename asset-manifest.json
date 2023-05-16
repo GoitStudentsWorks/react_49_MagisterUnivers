@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_49_MagisterUnivers/static/css/main.be355161.css",
-    "main.js": "/react_49_MagisterUnivers/static/js/main.ef42d4d3.js",
+    "main.js": "/react_49_MagisterUnivers/static/js/main.9c34ad2b.js",
     "static/js/252.d153b27b.chunk.js": "/react_49_MagisterUnivers/static/js/252.d153b27b.chunk.js",
     "static/js/94.3e4123ba.chunk.js": "/react_49_MagisterUnivers/static/js/94.3e4123ba.chunk.js",
     "static/js/704.000332bf.chunk.js": "/react_49_MagisterUnivers/static/js/704.000332bf.chunk.js",
@@ -79,7 +79,7 @@
     "static/media/PlusIcon.svg": "/react_49_MagisterUnivers/static/media/PlusIcon.c8d74ab206b4c159efe61dfb98d0e844.svg",
     "static/media/plus.svg": "/react_49_MagisterUnivers/static/media/plus.c1f4cb428bdfa079a2fad6362fe893a0.svg",
     "main.be355161.css.map": "/react_49_MagisterUnivers/static/css/main.be355161.css.map",
-    "main.ef42d4d3.js.map": "/react_49_MagisterUnivers/static/js/main.ef42d4d3.js.map",
+    "main.9c34ad2b.js.map": "/react_49_MagisterUnivers/static/js/main.9c34ad2b.js.map",
     "252.d153b27b.chunk.js.map": "/react_49_MagisterUnivers/static/js/252.d153b27b.chunk.js.map",
     "94.3e4123ba.chunk.js.map": "/react_49_MagisterUnivers/static/js/94.3e4123ba.chunk.js.map",
     "704.000332bf.chunk.js.map": "/react_49_MagisterUnivers/static/js/704.000332bf.chunk.js.map",
@@ -96,6 +96,6 @@
   },
   "entrypoints": [
     "static/css/main.be355161.css",
-    "static/js/main.ef42d4d3.js"
+    "static/js/main.9c34ad2b.js"
   ]
 }
